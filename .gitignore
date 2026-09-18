@@ -11,8 +11,6 @@ yarn-error.log*
 pnpm-debug.log*
 
 # Local environment and secrets (keep a shareable template if one is added)
-.env
-.env.*
 !.env.example
 
 # Test output, coverage and disposable caches
@@ -53,3 +51,4 @@ pnpm-debug.log*
 .dev.vars
 .dev.vars.*
 /wrangler.analytics.preview.json
+config.bat
